@@ -60,7 +60,7 @@ function preload() {
   satNtImg=loadImage("NameTag/Saturn.png")
   uraNtImg=loadImage("NameTag/Uranus.png")
   nepNtImg=loadImage("NameTag/Neptune.png")
-
+  bgSound.play();
 }
 
 function setup() {
